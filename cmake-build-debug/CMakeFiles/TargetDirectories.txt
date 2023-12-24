@@ -1,0 +1,3 @@
+C:/Users/a/OneDrive/Desktop/CPU/cmake-build-debug/CMakeFiles/CPU.dir
+C:/Users/a/OneDrive/Desktop/CPU/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/a/OneDrive/Desktop/CPU/cmake-build-debug/CMakeFiles/rebuild_cache.dir
